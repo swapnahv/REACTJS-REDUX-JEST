@@ -22,3 +22,7 @@ Download the .zip file. Extract the contents of the zip file, then open your ter
 > npm install
 
 > npm start
+
+To run test cases
+
+> npm test
