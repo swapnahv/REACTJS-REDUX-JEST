@@ -8,7 +8,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 > git clone https://github.com/swapnahv/REACTJS-REDUX-JEST.git
 
-> cd ReduxSimpleStarter
+> cd REACTJS-REDUX-JEST
 
 > npm install
 
